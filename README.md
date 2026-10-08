@@ -114,13 +114,16 @@ print() untuk menampilkan pesan "Pilihan tidak valid! Silakan pilih menu 1, 2, a
 
 <img width="769" height="449" alt="Screenshot 2026-10-08 144735" src="https://github.com/user-attachments/assets/d2dbd25e-d532-46c4-a360-ed2644cc176f" />
 
-Melalui fungsi json.load untuk membaca data dan json.dump untuk menyimpan data, seluruh informasi nilai mahasiswa (nama, NIM, mata kuliah, dan nilai) akan tersimpan secara aman sehingga tidak hilang ketika aplikasi ditutup dan dapat dimuat kembali saat program dijalankan lagi
+Melalui fungsi json.load untuk membaca data dan json.dump untuk menyimpan data, seluruh informasi nilai mahasiswa 
+
+(nama, NIM, mata kuliah, dan nilai) akan tersimpan secara aman sehingga tidak hilang ketika aplikasi ditutup
+
+dan dapat dimuat kembali saat program dijalankan lagi
 
 
 
 ## 5. Penjelasan Kode Program
 - **Variabel:** Menyimpan data yang diperlukan program.
-- **Percabangan:** Menentukan tindakan berdasarkan kondisi.
 - **Perulangan:** Menjalankan menu secara berulang.
 - **Pengolahan data:** Menambah, menampilkan, mengubah,
   atau menghapus data sesuai fitur program.
@@ -128,11 +131,7 @@ Melalui fungsi json.load untuk membaca data dan json.dump untuk menyimpan data, 
   tidak hilang ketika program ditutup.
 
 ## 6. Cara Menjalankan Program
-Jalankan perintah berikut melalui terminal:
-
-```bash
-python main.py
-```
+Jalankan perintah berikut melalui terminal dengan mengrun sehingga akan muncul menu
 
 ## 7. Screenshot Hasil Program
 
@@ -142,26 +141,60 @@ Bukti bahwa program berhasil dijalankan.
 
 <img width="761" height="203" alt="Screenshot 2026-10-08 144130" src="https://github.com/user-attachments/assets/cfe259ba-93a2-4dd4-b8e6-9815a991edf3" />
 
+output menampilkan menu sistem pencatatan nilai mahasiswa dan pengguna memilih no 1
+
+
 <img width="755" height="206" alt="Screenshot 2026-10-08 144203" src="https://github.com/user-attachments/assets/4471c424-b554-429e-be87-298ca9774b22" />
+
+output menampilkan data mahasiswa
+
 
 <img width="773" height="208" alt="Screenshot 2026-10-08 144232" src="https://github.com/user-attachments/assets/63e54f5c-20aa-4ad6-8398-8e782c3781e6" />
 
+output menampilkan data mahasiswa lainnya
+
+
 <img width="787" height="209" alt="Screenshot 2026-10-08 144253" src="https://github.com/user-attachments/assets/15b140de-1a35-4831-8d50-0a57ae903ace" />
+
+output menampilkan data mahasiswa
 
 <img width="770" height="212" alt="Screenshot 2026-10-08 144319" src="https://github.com/user-attachments/assets/443d353f-9689-48f8-b4f9-a555efe732d3" />
 
+otput menampilkan data mahasiswa dan menampilkan menu kembali
+
+
 <img width="776" height="449" alt="Screenshot 2026-10-08 144452" src="https://github.com/user-attachments/assets/1feeeffa-be9d-4483-9f12-2a10dde33518" />
+
+contoh data yang belum ditambahkan atau direkap
+
 
 <img width="743" height="344" alt="Screenshot 2026-10-08 144515" src="https://github.com/user-attachments/assets/7fccf4c4-d7a8-4a86-bb1f-8972cd9d64be" />
 
+contoh data yang belum ditambahkan atau direkap
+
+
 <img width="760" height="206" alt="Screenshot 2026-10-08 144622" src="https://github.com/user-attachments/assets/7dc560e8-2beb-4653-8240-ea0f49b0d2c1" />
+
+output menampilkan menu dan pengguna memilih no 2 lalu mengisi data yang ingin ditambahkan
+
+nama mahasiswa, nim, mata kuliah, nilai ujian
+
 
 <img width="770" height="205" alt="Screenshot 2026-10-08 144701" src="https://github.com/user-attachments/assets/39c96b5c-6c8c-457a-a048-199303a838e0" />
 
+output menambahkan data mahasiswa berhasil di tambahkan
+
+
 <img width="769" height="449" alt="Screenshot 2026-10-08 144735" src="https://github.com/user-attachments/assets/8046f602-42c5-43c6-a4ce-b7ef76ad94d4" />
+
+data mahasiswa otomatis tertambah ke file json
 
 
 <img width="764" height="211" alt="Screenshot 2026-10-08 144714" src="https://github.com/user-attachments/assets/39fdec3d-465b-47dd-a784-6ca9251abb32" />
+
+Ouput menampilkan menu kembali dan pengguna memilih no 3 maka output menampilkan
+
+Terima kasih! semangat coding nya ya teman temanku.
 
 
 ### B. Proses Menambahkan Data
