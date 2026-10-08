@@ -116,7 +116,7 @@ print() untuk menampilkan pesan "Pilihan tidak valid! Silakan pilih menu 1, 2, a
 
 Melalui fungsi json.load untuk membaca data dan json.dump untuk menyimpan data, seluruh informasi nilai mahasiswa 
 
-(nama, NIM, mata kuliah, dan nilai) akan tersimpan secara aman sehingga tidak hilang ketika aplikasi ditutup
+(nama, NIM, mata kuliah, dan nilai) akan tersimpan secara aman sehingga tidak hilang ketika program ditutup
 
 dan dapat dimuat kembali saat program dijalankan lagi
 
