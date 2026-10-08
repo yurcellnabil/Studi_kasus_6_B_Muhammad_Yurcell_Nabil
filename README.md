@@ -232,15 +232,15 @@ fungsi dan variable untuk menyimpan data mahasiswa
 
 <img width="767" height="206" alt="Screenshot 2026-10-08 213110" src="https://github.com/user-attachments/assets/a2db4fc8-88ba-4b8d-8564-d8be006248fd" />
 
-
+ouput menampilkan bahwa data tersimpan secara otomatis walaupun pengguna sudah keluar dari program dan masuk kembali
 
 
 
 ## 8. Kesimpulan
-Program ini dibuat untuk menerapkan konsep dasar Python
-dalam pengelolaan dan penyimpanan data menggunakan JSON.
+Program ini saya buat untuk memudahkan dalam pencatatan 
+dalam kasus ini tentang sistem pencatatan nilai mahasiswa
+menggunakan pengelolaan dan penyimpanan data JSON.
 Data yang telah disimpan dapat digunakan kembali ketika
 program dijalankan ulang.
 
----
-**Dokumentasi tugas Pemrograman Python.**
+
