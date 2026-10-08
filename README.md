@@ -102,11 +102,7 @@ else untuk menangani pilihan menu yang tidak sesuai, misalnya selain angka 1, 2,
 
 <img width="788" height="92" alt="Screenshot 2026-10-08 170701" src="https://github.com/user-attachments/assets/cf11005d-6340-4624-8a8e-d398c99118fa" />
 
-else dijalankan jika pengguna memilih selain menu 1, 2, atau 3.
-
 print() untuk menampilkan pesan "Pilihan tidak valid! Silakan pilih menu 1, 2, atau 3."
-
-while True untuk membuat menu utama muncul kembali sehingga pengguna bisa memilih ulang.
 
 
 
@@ -118,8 +114,9 @@ while True untuk membuat menu utama muncul kembali sehingga pengguna bisa memili
 
 <img width="769" height="449" alt="Screenshot 2026-10-08 144735" src="https://github.com/user-attachments/assets/d2dbd25e-d532-46c4-a360-ed2644cc176f" />
 
-File JSON digunakan untuk menyimpan data yang telah dimasukkan
-agar dapat dibaca kembali ketika program dijalankan ulang.
+Melalui fungsi json.load untuk membaca data dan json.dump untuk menyimpan data, seluruh informasi nilai mahasiswa (nama, NIM, mata kuliah, dan nilai) akan tersimpan secara aman sehingga tidak hilang ketika aplikasi ditutup dan dapat dimuat kembali saat program dijalankan lagi
+
+
 
 ## 5. Penjelasan Kode Program
 - **Variabel:** Menyimpan data yang diperlukan program.
