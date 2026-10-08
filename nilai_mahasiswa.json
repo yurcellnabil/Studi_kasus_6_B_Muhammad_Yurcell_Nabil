@@ -1,0 +1,50 @@
+[
+    {
+        "nama": "Yurcell",
+        "nim": "073",
+        "mata_kuliah": "Dasar-Dasar Pemrograman",
+        "nilai": "85"
+    },
+    {
+        "nama": "Mirza",
+        "nim": "043",
+        "mata_kuliah": "Dasar-Dasar Pemrograman",
+        "nilai": "88"
+    },
+    {
+        "nama": "Thoriq",
+        "nim": "047",
+        "mata_kuliah": "Dasar-Dasar Pemrograman",
+        "nilai": "82"
+    },
+    {
+        "nama": "Samsul",
+        "nim": "050",
+        "mata_kuliah": "Dasar-Dasar Pemrograman",
+        "nilai": "80"
+    },
+    {
+        "nama": "Sanjaya",
+        "nim": "070",
+        "mata_kuliah": "Dasar-Dasar Pemrograman",
+        "nilai": "86"
+    },
+    {
+        "nama": "Mirza",
+        "nim": "043",
+        "mata_kuliah": "Dasar Dasar Pemrograman",
+        "nilai": "88"
+    },
+    {
+        "nama": "udin",
+        "nim": "098",
+        "mata_kuliah": "Dasar Dasar Pemrograman",
+        "nilai": "87"
+    },
+    {
+        "nama": "Alex",
+        "nim": "100",
+        "mata_kuliah": "Dasar Dasar Pemrograman",
+        "nilai": "90"
+    }
+]
