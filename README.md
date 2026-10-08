@@ -202,11 +202,38 @@ Bukti bahwa data baru berhasil ditambahkan.
 
 <img width="780" height="288" alt="Screenshot 2026-10-08 174829" src="https://github.com/user-attachments/assets/9d208596-e333-4947-9d9c-1630bca6505c" />
 
+fungsi dan variable untuk menambahkan data baru mahasiswa
+
+<img width="762" height="201" alt="Screenshot 2026-10-08 211712" src="https://github.com/user-attachments/assets/e3c08c91-e95f-4f22-b967-4c9741ca1ff7" />
+
+output menambahkan atau merekap otomatis ke dalam program sehingga ketika pengguna memasukan menu 1
+
+output menampilkan data mahasiswa terbaru
+
 ### C. Bukti Data Tetap Tersimpan
 Bukti bahwa data tetap tersedia setelah program ditutup
 dan dijalankan kembali.
 
 <img width="776" height="190" alt="Screenshot 2026-10-08 175049" src="https://github.com/user-attachments/assets/076f4d06-09cd-4dc1-941f-87aae4807e9d" />
+
+fungsi dan variable untuk menyimpan data mahasiswa
+
+
+<img width="734" height="206" alt="Screenshot 2026-10-08 212420" src="https://github.com/user-attachments/assets/94a6e412-7f43-4a19-bd37-c61dfe6cd4c6" />
+
+<img width="776" height="196" alt="Screenshot 2026-10-08 212902" src="https://github.com/user-attachments/assets/75640121-599b-407f-9b3c-d674ab9665ba" />
+
+<img width="758" height="197" alt="Screenshot 2026-10-08 212936" src="https://github.com/user-attachments/assets/deba3988-4536-4e8a-91b5-603892567124" />
+
+<img width="772" height="205" alt="Screenshot 2026-10-08 213016" src="https://github.com/user-attachments/assets/137e4391-69d6-4d1e-943b-fc2c3f2a70a4" />
+
+<img width="764" height="205" alt="Screenshot 2026-10-08 213051" src="https://github.com/user-attachments/assets/53934ff5-9dbc-427a-a279-07540d9b7c03" />
+
+
+<img width="767" height="206" alt="Screenshot 2026-10-08 213110" src="https://github.com/user-attachments/assets/a2db4fc8-88ba-4b8d-8564-d8be006248fd" />
+
+
+
 
 
 ## 8. Kesimpulan
